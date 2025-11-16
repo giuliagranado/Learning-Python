@@ -5,6 +5,8 @@ Created on Sat Nov  1 11:04:17 2025
 @author: lab54
 """
 
+# parte do aquecmento pré-maratona
+
 k = int(input())
 continues = True
 numero = []
