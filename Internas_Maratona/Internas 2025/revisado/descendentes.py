@@ -4,7 +4,6 @@
 #                 retonar n re relações, inves da contagem acumulada
 
 n = int(input())    #número de relações de paternidade
-
 pai_filho = []      #lista para armazenar as relações de paternidade
 
 for i in range(n):    
